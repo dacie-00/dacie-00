@@ -2,9 +2,23 @@
 
 A passionate software developer who loves web development with some recreational game development on the side.
 
+---
+
 My top 3 projects - 
+
 <a href="https://github.com/dacie-00/homework-final">Mock mini bank</a>
+
 A bank simulation made with PHP 8 and Laravel 11 with features such as creating bank accounts, making transfers, making investments in cryptocurrencies.  
+
+<a href="https://github.com/dacie-00/homework-article-website">Article website</a>
+
+Article website based on the MVC architecture with common CRUD functionality for articles.
+
+<a href="https://github.com/dacie-00/homework-crpyto-trade-v2">Cryptocurrency trading simulation</a>
+
+A simulated cryptocurrency trading site utilizing a public cryptocurrency API for fetching data.  
+
+
 
 ---
 
