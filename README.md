@@ -1,7 +1,18 @@
-## Hi there 👋
+## Hi, I'm Daniels Ciemiņš
 
-<!--
-**dacie-00/dacie-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate software developer who loves web development with some recreational game development on the side.
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP logo" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg"  alt="Laravel logo" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  alt="Git logo" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  alt="HTML5 logo" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  alt="Javascript logo" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  alt="TailwindCSS logo" width="75" />
+</p>
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
 
 Here are some ideas to get you started:
 
