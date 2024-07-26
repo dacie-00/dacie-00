@@ -1,8 +1,12 @@
 ## Hi, I'm Daniels Ciemiņš
 
-I'm a passionate PHP focused software developer who loves web development with some recreational game development on the side.
+* I'm a passionate software developer
+* My main focus is PHP
+* I love learning new technologies
+* My interests include game development, music production, and AI
 
-My LinkedIn - <a href="https://www.linkedin.com/in/danielsciemins/">Daniels Ciemiņš</a>
+
+<a href="https://www.linkedin.com/in/danielsciemins"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"/></a>
 
 
 ---
