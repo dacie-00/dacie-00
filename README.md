@@ -22,13 +22,14 @@
 
 A bank simulation made with PHP 8 and Laravel 11 with features such as creating bank accounts, making transfers, making investments in cryptocurrencies.  
 
+#### <a href="https://github.com/dacie-00/cv-creator/">CV Creator</a>
+
+A CV editor made using Laravel featuring an intuitive visual editor.
+
 #### <a href="https://github.com/dacie-00/homework-article-website">Article website</a>
 
 Article website based on the MVC architecture with common CRUD functionality for articles.
 
-#### <a href="https://github.com/dacie-00/homework-crpyto-trade-v2">Cryptocurrency trading simulation</a>
-
-A simulated cryptocurrency trading site utilizing a public cryptocurrency API for fetching data.  
 
 ###
 
